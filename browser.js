@@ -25,6 +25,7 @@ export { default as HEDGEHOG } from './cows/hedgehog.cow';
 export { default as HELLOKITTY } from './cows/hellokitty.cow';
 export { default as KISS } from './cows/kiss.cow';
 export { default as KITTY } from './cows/kitty.cow';
+export { default as KHILESH } from './cows/khilesh.cow';
 export { default as KOALA } from './cows/koala.cow';
 export { default as KOSH } from './cows/kosh.cow';
 export { default as LUKE_KOALA } from './cows/luke-koala.cow';

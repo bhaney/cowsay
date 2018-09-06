@@ -1,13 +1,16 @@
-# DAQ-FAQs lives on in the cows
+##
+## DAQ-FAQs lives on in the cows
+##
 $the_cow = <<EOC;
-          $thoughts       ,//\\\\\,       
-           $thoughts    ///\\\\\\\\\,     
-            $thoughts  ////\\\\\\\\\\\,   
-             $thoughts //_     __  \\\\   
-               /  \\  /  \\ \\\   
+          $thoughts       ,//\\\\\\\\\\,       
+           $thoughts    ///\\\\\\\\\\\\\\\\\\,     
+            $thoughts  ////\\\\\\\\\\\\\\\\\\\\\\,   
+             $thoughts //_     __  \\\\\\\\   
+               /  \\\\  /  \\\\ \\\\\\   
                \O_//  \O_//  ,\   
                |   /         _/   
                \  <__,      /     
                 \  ____,   /      
                  \ |__/   /       
                   \_____/         
+EOC
